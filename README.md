@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Bobby Brown
-- 👀 I’m interested in learning fullstack web developement and 3D modeling
+- 👀 I’m interested in constantly expanding my knowledge  in fullstack web developement and 3D modeling
 - 🌱 I’m currently learning javascript, react & Blender
 - 💞️ I’m looking to collaborate on anything that includes 3D model intergration on sites
 - 📫 How to reach me: 6obbybrown@gmail.com
